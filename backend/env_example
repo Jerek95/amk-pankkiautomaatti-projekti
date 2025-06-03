@@ -1,0 +1,3 @@
+//Lisätkää .env tiedosto ja sinne nämä kaksi riviä
+//MYSQL_SERVER='mysql://bankuser:bankpass@127.0.0.1:3306/bank_database'
+//MY_TOKEN=4hC8thK053L297RZUPzJA3TKm5HiXHJz2tm0/xQtpnxqgWF7esrZqtWWd+dZSgDK6EOTkGUl6UKCm6KnaYyOTQ==

@@ -1,0 +1,13 @@
+backend/node_modules/ 
+bank-automat/build/ 
+bank-automat/*.user
+testiEXE/
+testiRESTAPI_DLL/
+RFID_DLL/build/ 
+RFID_DLL/*.user
+pinUI_DLL/build/ 
+pinUI_DLL/*.user
+restapi_DLL/build/ 
+restapi_DLL/*.user
+.env
+restapi_dll_tryout/
